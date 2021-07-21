@@ -38,6 +38,7 @@ Created by Diaz Saufa Yardha
         <td>vscode              1.58.2</td>
     </tr>
 </table>
+tested successfully for Windows
 
 ### User Flow
 1. open tiket.com
