@@ -11,31 +11,40 @@ Created by Diaz Saufa Yardha
 ## Tools used
 <table>
     <tr>
-        <td>ruby                2.7.2</td>
+        <td>ruby</td>
+        <td>2.7.2</td>
     </tr>
     <tr>
-        <td>cucumber-ruby       7.0.0</td>
+        <td>cucumber-ruby</td> 
+        <td>7.0.0</td>
     </tr>
     <tr>
-        <td>chromedriver        91.0.4472.101</td>
+        <td>chromedriver</td>
+        <td>91.0.4472.101</td>
     </tr>
     <tr>
-        <td>chrome browser      92.0.4515.107 </td>
+        <td>chrome browser</td>
+        <td>92.0.4515.107 </td>
     </tr>
     <tr>
-        <td>selenium-webdriver  3.142.7</td>
+        <td>selenium-webdriver</td>
+        <td>3.142.7</td>
     </tr>
     <tr>
-        <td>gem gherkin         9.0.0</td>
+        <td>gem gherkin</td>
+        <td>9.0.0</td>
     </tr>
     <tr>
-        <td>gem cucumber        7.0.0, 5.3.0</td>
+        <td>gem cucumber</td>
+        <td>7.0.0, 5.3.0</td>
     </tr>
     <tr>
-        <td>gem rspec           3.10.0</td>
+        <td>gem rspec</td>
+        <td>3.10.0</td>
     </tr>
     <tr>
-        <td>vscode              1.58.2</td>
+        <td>vscode</td>
+        <td>1.58.2</td>
     </tr>
 </table>
 tested successfully for Windows
