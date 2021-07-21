@@ -3,15 +3,17 @@ Created by Diaz Saufa Yardha
 
 ## Tools used
 <table>
-    <tr>ruby                2.7.2</tr>
-    <tr>cucumber-ruby       7.0.0</tr>
-    <tr>chromedriver        91.0.4472.101</tr>
-    <tr>chrome browser      92.0.4515.107 </tr>
-    <tr>selenium-webdriver  3.142.7</tr>
-    <tr>gem gherkin         9.0.0</tr>
-    <tr>gem cucumber        7.0.0, 5.3.0</tr>
-    <tr>gem rspec           3.10.0</tr>
-    <tr>vscode              1.58.2</tr>
+    <tr>
+    <td>ruby                2.7.2</td>
+    <td>cucumber-ruby       7.0.0</td>
+    <td>chromedriver        91.0.4472.101</td>
+    <td>chrome browser      92.0.4515.107 </td>
+    <td>selenium-webdriver  3.142.7</td>
+    <td>gem gherkin         9.0.0</td>
+    <td>gem cucumber        7.0.0, 5.3.0</td>
+    <td>gem rspec           3.10.0</td>
+    <td>vscode              1.58.2</td>
+    </tr>
 </table>
 
 # How to Run
