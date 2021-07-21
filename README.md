@@ -2,11 +2,15 @@
 Created by Diaz Saufa Yardha
 
 # How to Run
-1. Open terminal
-2. Type ```chromedriver --allowed-ips```to run the chromedriver and allow your pc to connect
-3. Change directory to your filepath (mine -> E:/000DOC/Informatic/Ruby/Testing/Tiket)
-4. Type ```cucumber --publish```in order to run cucumber and generate report
-5. Wait for system to run the automation script
+1. Clone this repository
+2. Open terminal
+3. change directory or path to /your/filepath/tiket.com-web_automation/Tiket/
+4. Type ```chromedriver --allowed-ips``` and hit enter to run the chromedriver and allow your pc to connect
+5. Open new terminal
+6. Change directory to the same path as before
+7. Type ```cucumber --publish``` and hit enter in order to run cucumber and generate report
+8. Wait for system to run the automation script
+
 
 ## Tools used
 <table>
