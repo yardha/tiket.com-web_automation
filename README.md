@@ -35,10 +35,6 @@ Created by Diaz Saufa Yardha
         <td>9.0.0</td>
     </tr>
     <tr>
-        <td>gem cucumber</td>
-        <td>7.0.0, 5.3.0</td>
-    </tr>
-    <tr>
         <td>gem rspec</td>
         <td>3.10.0</td>
     </tr>
