@@ -20,4 +20,5 @@ Then user input phone number
 Then user input passenger data same as registered data
 Then user going to pay for the ticket
 Then user confirm for payment method
-Then user close the browser
+# Then user confirm for continuing the transaction
+# Then user close the browser

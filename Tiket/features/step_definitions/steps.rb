@@ -50,7 +50,6 @@ Then ("user choose flight class and total passengers") do
     sleep(2)
 end
 
-
 Then ("user click search for avaliable flights") do
     driver.find_element(:xpath,'//*[@id="productWidget"]/div[2]/div[3]/button').click
     sleep(5)
@@ -107,6 +106,11 @@ Then ("user confirm for payment method") do
     sleep(5)
 end
 
-# Then("user close the browser") do
-#     driver.quit
-# end
+Then ("user confirm for continuing the transaction") do
+    driver.find_element(:xpath,'/html/body/div[1]/div/div[1]/div/div/div/div/div[3]/button').click
+    sleep(5)
+end
+
+Then("user close the browser") do
+    driver.quit
+end
