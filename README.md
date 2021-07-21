@@ -1,6 +1,13 @@
 # Automation Script for Booking Flight Order
 Created by Diaz Saufa Yardha
 
+# How to Run
+1. Open terminal
+2. Type ```chromedriver --allowed-ips```to run the chromedriver and allow your pc to connect
+3. Change directory to your filepath (mine -> E:/000DOC/Informatic/Ruby/Testing/Tiket)
+4. Type ```cucumber --publish```in order to run cucumber and generate report
+5. Wait for system to run the automation script
+
 ## Tools used
 <table>
     <tr>
@@ -31,13 +38,6 @@ Created by Diaz Saufa Yardha
         <td>vscode              1.58.2</td>
     </tr>
 </table>
-
-# How to Run
-1. Open terminal
-2. Type ```chromedriver --allowed-ips```to run the chromedriver and allow your pc to connect
-3. Change directory to your filepath (mine -> E:/000DOC/Informatic/Ruby/Testing/Tiket)
-4. Type ```cucumber --publish```in order to run cucumber and generate report
-5. Wait for system to run the automation script
 
 ### User Flow
 1. open tiket.com
